@@ -13,7 +13,7 @@
 - Desenvolver um relatório totalmente interativo.
 
   ---
-  ## 🛠️ Ferramentas Utilizadas
+  ## :hammer_and_wrench: Ferramentas Utilizadas
 
 | Ferramenta | Finalidade |
 |------------|------------|
@@ -33,3 +33,10 @@
   <img src="./images/dashboard.png" width="900">
 </p>
 ```
+# :sparkles: Visualizações utilizadas
+
+- Cartões de indicadores (KPIs), Gráfico de Rosca com margem auxiliar;  Cartão central para percentual da margem; Storytelling com medidas dinâmicas; Scroller de informações; Image Grid com imagens dos bancos; Dashboard totalmente interativo.
+
+# :link: Sites utilizados
+
+- https://www.color-hex.com ; https://dribbble.com ; https://www.flaticon.com ; https://mycolor.space ; https://instant-eyedropper.com; https://pt-br.imgbb.com
