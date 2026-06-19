@@ -3,10 +3,17 @@
 
 >Neste projeto foi desenvolvida a etapa final de um dashboard bancário no **Power BI**, com foco na criação de visualizações interativas, indicadores e elementos visuais personalizados.
 
-O objetivo foi transformar os dados tratados e modelados nas aulas anteriores em um relatório profissional, utilizando gráficos, cartões, storytelling e componentes personalizados para melhorar a experiência do usuário.
-
 ---
-## 🛠️ Ferramentas Utilizadas
+## :dart: Objetivos
+
+- Construir um dashboard profissional no Power BI;
+- Criar indicadores visuais para facilitar a análise;
+- Aplicar gráficos personalizados (Custom Visuals);
+- Melhorar a experiência do usuário através de Storytelling;
+- Desenvolver um relatório totalmente interativo.
+
+  ---
+  ## 🛠️ Ferramentas Utilizadas
 
 | Ferramenta | Finalidade |
 |------------|------------|
@@ -16,8 +23,8 @@ O objetivo foi transformar os dados tratados e modelados nas aulas anteriores em
 | :chart_with_upwards_trend: Visualizações | Construção dos gráficos |
 | :sparkles: Custom Visuals | Storytelling, Scroller e Image Grid |
 
-
-## 📷 Dashboard
+---
+## :chart_with_upwards_trend: Dashboard
 
 > *Adicione aqui uma imagem do dashboard final.*
 
