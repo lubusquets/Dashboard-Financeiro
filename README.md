@@ -1,7 +1,7 @@
 # :bar_chart: Dashboard-Financeiro
 *Relatório financeiro com dashboard interativo em Power BI*
 
->Neste projeto foi desenvolvida a etapa final de um dashboard bancário no **Power BI**, com foco na criação de visualizações interativas, indicadores e elementos visuais personalizados.
+>Este projeto demonstra como transformar dados em informações estratégicas utilizando recursos avançados do **Power BI**, combinando indicadores, visualizações personalizadas e técnicas de storytelling para produzir dashboards modernos e intuitivos.
 
 ---
 ## :dart: Objetivos
