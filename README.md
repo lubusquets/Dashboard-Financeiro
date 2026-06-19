@@ -39,6 +39,21 @@
 
 - Cartões de indicadores (KPIs), Gráfico de Rosca com margem auxiliar;  Cartão central para percentual da margem; Storytelling com medidas dinâmicas; Scroller de informações; Image Grid com imagens dos bancos; Dashboard totalmente interativo.
 
+---
+
+# :brain: Habilidades desenvolvidas
+Durante este projeto foram praticados conceitos como:
+
+- Criação de indicadores (KPIs)
+- Construção de medidas auxiliares em DAX
+- Formatação profissional de dashboards
+- Storytelling utilizando medidas dinâmicas
+- Utilização de visuais personalizados
+- Design voltado para experiência do usuário (UX)
+- Organização visual de informações
+
+---
+
 # :link: Sites utilizados
 
 - https://www.color-hex.com ; https://dribbble.com ; https://www.flaticon.com ; https://mycolor.space ; https://instant-eyedropper.com; https://pt-br.imgbb.com
