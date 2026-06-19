@@ -13,7 +13,7 @@
 - Desenvolver um relatório totalmente interativo.
 
 ---
-  ## :hammer_and_wrench: Ferramentas Utilizadas
+  ## :hammer_and_wrench: Tecnologias Utilizadas
 
 | Ferramenta | Finalidade |
 |------------|------------|
@@ -31,7 +31,11 @@
 ![](https://github.com/lubusquets/Dashboard-Financeiro/blob/main/img/fin3.jpeg?raw=true)
 ![](https://github.com/lubusquets/Dashboard-Financeiro/blob/main/img/fin4.jpeg?raw=true)
 
-# :sparkles: Visualizações utilizadas
+ :books: **Conhecimentos Aplicados**: Power BI Desktop; DAX; KPIs; Storytelling; Custom Visuals; Dashboard Design; Visual Analytics. 
+
+---
+
+ # :sparkles: Visualizações utilizadas
 
 - Cartões de indicadores (KPIs), Gráfico de Rosca com margem auxiliar;  Cartão central para percentual da margem; Storytelling com medidas dinâmicas; Scroller de informações; Image Grid com imagens dos bancos; Dashboard totalmente interativo.
 
