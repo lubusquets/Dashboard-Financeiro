@@ -12,7 +12,7 @@
 - Melhorar a experiência do usuário através de Storytelling;
 - Desenvolver um relatório totalmente interativo.
 
-  ---
+---
   ## :hammer_and_wrench: Ferramentas Utilizadas
 
 | Ferramenta | Finalidade |
@@ -26,13 +26,11 @@
 ---
 ## :chart_with_upwards_trend: Dashboard
 
-> *Adicione aqui uma imagem do dashboard final.*
+![](https://github.com/lubusquets/Dashboard-Financeiro/blob/main/img/fin1.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-Financeiro/blob/main/img/fin2.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-Financeiro/blob/main/img/fin3.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-Financeiro/blob/main/img/fin4.jpeg?raw=true)
 
-```html
-<p align="center">
-  <img src="./images/dashboard.png" width="900">
-</p>
-```
 # :sparkles: Visualizações utilizadas
 
 - Cartões de indicadores (KPIs), Gráfico de Rosca com margem auxiliar;  Cartão central para percentual da margem; Storytelling com medidas dinâmicas; Scroller de informações; Image Grid com imagens dos bancos; Dashboard totalmente interativo.
